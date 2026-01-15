@@ -2,3 +2,7 @@
 *.o
 *.ob
 .vscode/
+bin/
+obj/
+*.depend
+*.layout
